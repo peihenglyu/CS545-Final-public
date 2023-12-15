@@ -1,0 +1,5 @@
+records/
+data/
+cnn_model/
+record_cut/
+.ipynb_checkpoints/
