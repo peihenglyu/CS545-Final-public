@@ -1,0 +1,7 @@
+Keyboard Input Prediction by Sound
+
+ - Peiheng Lyu
+ - Ortiz, Michael Philip
+ - Wang, Hanqing
+
+Project github page: https://github.com/peihenglyu/Keyboard-Input-Prediction-by-Sound---public
