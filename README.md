@@ -3,10 +3,7 @@ Peiheng Lyu, Ortiz, Michael Philip, Wang, Hanqing
 <br/><br/>
 
 ## Stage 1. Build Dataset:
-To do List:
-- [X] Step 1 (Michael)
-- [X] Step 2 (Peiheng)
-- [X] Step 3 (hanqing5)
+
 #### Step 1: Identify and Extract Keystrokes
 We require a function that can detect and pinpoint keystrokes within a given time series. Our current method involves using a smoothing filter to identify the peaks in the time series. The code snippet below illustrates this approach:
 ```python
