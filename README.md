@@ -1,5 +1,4 @@
-# CS545-Final
-Peiheng Lyu, Ortiz, Michael Philip, Wang, Hanqing
+# Keystroke Recognition in Real Time
 <br/><br/>
 
 ## Stage 1. Build Dataset:
