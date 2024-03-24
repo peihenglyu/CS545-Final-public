@@ -1,4 +1,5 @@
 # Keystroke Recognition in Real Time
+[Report here](https://github.com/peihenglyu/Keyboard-Input-Prediction-by-Sound---public/blob/main/Keyboard%20Input%20Prediction%20by%20Sound.pdf)
 <br/><br/>
 
 ## Stage 1. Build Dataset:
