@@ -1,5 +1,5 @@
 # Keystroke Recognition in Real Time
-[Report here](https://github.com/peihenglyu/Keyboard-Input-Prediction-by-Sound---public/blob/main/Keyboard%20Input%20Prediction%20by%20Sound.pdf)
+[Our Report](https://github.com/peihenglyu/Keyboard-Input-Prediction-by-Sound---public/blob/main/Keyboard%20Input%20Prediction%20by%20Sound.pdf)
 <br/><br/>
 
 ## Stage 1. Build Dataset:
@@ -84,7 +84,6 @@ class Net(nn.Module):
 Our input data have 2 channel which is left and right channel of the microphones. Just similar to the RGB channels of a image.
 
 2. RNN (Not implemented yet)
-...
 
 #### Step 2: Test On Data Set
 Our model's performance on the dataset is as follows:
